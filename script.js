@@ -1,3 +1,4 @@
+ 
 const resultsContainer = document.getElementById('results');
 
 esportsData.forEach(dayData => {
@@ -68,3 +69,4 @@ window.addEventListener('scroll', () => {
         }
     });
 });
+

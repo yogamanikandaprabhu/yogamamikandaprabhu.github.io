@@ -1,3 +1,4 @@
+ 
 const esportsData = [
     {
         day: "Day 1   PLACEMENT TROPHY",
@@ -69,3 +70,4 @@ const esportsData = [
     },
     
 ];
+
