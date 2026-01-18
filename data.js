@@ -86,7 +86,7 @@ const esportsData = [
         ]
     },
     {
-        day: "Day 6   PLACEMENT + HIGHEST KILLS TROPHY",
+        day: "Day 6   PLACEMENT + KILLS TROPHY",
         matches: [
             { team: "MATCH 1", winner: true, img: "images/day6-match1.jpg" },
             { team: "MATCH 2", winner: true, img: "images/day6-match2.jpg" },
