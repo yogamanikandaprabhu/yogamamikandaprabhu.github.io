@@ -37,8 +37,8 @@ const esportsData = [
     {
         day: "Day 3   HIGHEST KILL TROPHY",
         matches: [
-            { team: "MATCH 1", winner: true, img: "images/day3-match2.jpg" },
-            { team: "MATCH 2", winner: true, img: "images/day3-match1.jpg" },
+            { team: "MATCH 1", winner: true, img: "images/day3-match1.jpg" },
+            { team: "MATCH 2", winner: true, img: "images/day3-match2.jpg" },
             { team: "MATCH 3", winner: true, img: "images/day3-match3.jpg" },
             { team: "MATCH 4", winner: true, img: "images/day3-match4.jpg" },
             { team: "MATCH 5", winner: true, img: "images/day3-match5.jpg" }
@@ -54,10 +54,10 @@ const esportsData = [
     {
         day: "Day 4   PLACEMENT TROPHY",
         matches: [
-            { team: "MATCH 1", winner: true, img: "images/day4-match4.jpg" },
-            { team: "MATCH 2", winner: true, img: "images/day4-match1.jpg" },
-            { team: "MATCH 3", winner: true, img: "images/day4-match2.jpg" },
-            { team: "MATCH 4", winner: true, img: "images/day4-match3.jpg" },
+            { team: "MATCH 1", winner: true, img: "images/day4-match1.jpg" },
+            { team: "MATCH 2", winner: true, img: "images/day4-match2.jpg" },
+            { team: "MATCH 3", winner: true, img: "images/day4-match3.jpg" },
+            { team: "MATCH 4", winner: true, img: "images/day4-match4.jpg" },
             { team: "MATCH 5", winner: true, img: "images/day4-match5.jpg" }
         ],
         table: [
@@ -66,6 +66,40 @@ const esportsData = [
             { team: "RIOT", position: 3, Points: 21 },
             { team: "Sx BTS", position: 4, Points: 18 },
             { team: "RC BTS & BTS 3.0", position: 5, Points: 16 }
+        ]
+    },
+    {
+        day: "Day 5   HIGHEST WIN TROPHY (TIE BREAKER MATCH)",
+        matches: [
+            { team: "MATCH 1", winner: true, img: "images/day5-match1.jpg" },
+            { team: "MATCH 2", winner: true, img: "images/day5-match2.jpg" },
+            { team: "MATCH 3", winner: true, img: "images/day5-match3.jpg" },
+            { team: "MATCH 4", winner: true, img: "images/day5-match4.jpg" },
+            { team: "MATCH 5", winner: true, img: "images/day5-match5.jpg" }
+        ],
+        table: [
+            { team: "OG BTS", position: 1, Points: 2 },
+            { team: "SIMBA", position: 2, Points: 1 },
+            { team: "RIOT", position: 3, Points: 1 },
+            { team: "RC BTS", position: 4, Points: 1 },
+            { team: "OG YT live", position: 5, Points: 1 }
+        ]
+    },
+    {
+        day: "Day 4   PLACEMENT TROPHY + HIGHEST KILLS",
+        matches: [
+            { team: "MATCH 1", winner: true, img: "images/day6-match1.jpg" },
+            { team: "MATCH 2", winner: true, img: "images/day6-match2.jpg" },
+            { team: "MATCH 3", winner: true, img: "images/day6-match3.jpg" },
+            { team: "MATCH 4", winner: true, img: "images/day6-match4.jpg" },
+            { team: "MATCH 5", winner: true, img: "images/day6-match5.jpg" }
+        ],
+        table: [
+            { team: "MAFIA SNIPE ", position: 1, Points: 70 },
+            { team: "D BTS", position: 2, Points: 64 },
+            { team: "BTS-M", position: 3, Points: 61 },
+            { team: "OG BTS", position: 4, Points: 53 },
+            { team: "RC BTS", position: 5, Points: 51 }
         ]
     },
     
