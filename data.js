@@ -13,7 +13,7 @@ const esportsData = [
             { team: "YUVI OP", position: 1, Points:33  },
             { team: "RIOT", position: 2, Points: 32 },
             { team: "BTS 2.0", position: 3, Points: 21 },
-            { team: "M-BTS", position: 4, Points: 19 },
+            { team: "BTS-M", position: 4, Points: 19 },
             { team: "SIMBA", position: 5, Points: 16 }
         ]
     },
@@ -44,7 +44,7 @@ const esportsData = [
             { team: "MATCH 5", winner: true, img: "images/day3-match5.jpg" }
         ],
         table: [
-            { team: "M-BTS", position: 1, Points: 27 },
+            { team: "BTS-M", position: 1, Points: 27 },
             { team: "Reynold team", position: 2, Points: 24 },
             { team: "BTS 3.0", position: 3, Points: 21 },
             { team: "Sx BTS", position: 4, Points: 20 },
@@ -86,7 +86,7 @@ const esportsData = [
         ]
     },
     {
-        day: "Day 4   PLACEMENT TROPHY + HIGHEST KILLS",
+        day: "Day 6   PLACEMENT + HIGHEST KILLS TROPHY",
         matches: [
             { team: "MATCH 1", winner: true, img: "images/day6-match1.jpg" },
             { team: "MATCH 2", winner: true, img: "images/day6-match2.jpg" },
